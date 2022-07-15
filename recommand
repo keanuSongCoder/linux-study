@@ -1,0 +1,11 @@
+linux会把硬件映射成文件来进行管理
+在Linux世界里一切皆文件
+/bin 常用命令目录
+/sbin 高级命令目录
+/home 普通用户的主目录
+/root 系统管理员目录
+/lib 动态连接共享库
+/lost+found  非法关机后存在
+/etc 安装系统管理所需要的配置文件和子目录
+/usr 非常重要的目录，类似于win的program files 目录
+/boot linux启动相关文件
